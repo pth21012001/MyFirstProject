@@ -4,7 +4,7 @@
 }
 
 .maunen{
-	background-color: #16A085;;
+	background-color: #16A085;
 	padding-top: 50px;
 }
 
@@ -19,14 +19,24 @@
 	
 	display: inline;
 	color: white;
-	margin-left: 70px;
 	font-size: 15px
 }
 
-.i01{
-	padding-bottom: 50px;
+#i01{
+	display: inline-block;
+    
+    background: #1ABC9C;
+    text-align: center;
+}
+
+
+#i01{
+	display: inline-block;
+	background-color: #1ABC9C;
+	text-decoration: none;
 
 }
+
 
 .cerulear{
 	padding-bottom: 15px;
