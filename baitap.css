@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.maunen{
+	background-color: #16A085;;
+	padding-top: 50px;
+}
+
+.cochu{
+	font-size: 60px;
+	color: white;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+.li{
+	
+	display: inline;
+	color: white;
+	margin-left: 70px;
+	font-size: 15px
+}
+
+.i01{
+	padding-bottom: 50px;
+
+}
+
+.cerulear{
+	padding-bottom: 15px;
+}
+
+.ul{
+	background-color:#4a8bb3; 
+	margin-right: 450px; 
+	height: 37px; 
+	padding-top: 18px;
+}
+
+
+
+.welcome{
+	font-size: 60px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.welcome1{
+	text-align: center;
+}
+
+
+
+.div2{
+	display: inline;
+	text-align: center;
+	margin: 150px;
+}
+
+.li2 h2{
+	
+	font-size: 20px;
+	font-weight: bold;
+	width: 100%;
+}
