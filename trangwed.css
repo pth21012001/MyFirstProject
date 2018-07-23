@@ -1,0 +1,81 @@
+#P1 a{
+	font-size: 12px;
+	font-weight: bold;
+	display: inline;
+	padding: 6px;
+}
+
+#phone li{
+	display: inline;
+}
+
+.phone1{
+	display: inline;
+}
+
+.logo{
+	height: 17px;
+}
+
+.logo1{
+	text-align: center;
+}
+
+#ngaythang li{
+	display: inline;
+}
+
+.trangnhat{
+	display: inline;
+	float: left;
+	width: 59%;
+}
+
+<!-- Het Phan Dau -->
+
+
+#bao{
+	width: 100%;
+	display: inline;
+	float: left;
+}.bao1{
+	float: left;
+	width: 50%;
+	display: inline;
+}
+.bao2{
+	float: left;
+	width: 20%;
+}
+.bao3{
+	float: left;
+	width: 30%;
+	margin-top: 25px;
+}
+
+<!-- Het Noi Dung Chinh -->
+
+#nd1{
+	width: 50%;
+	float: left;
+}
+
+#nd2{
+	width: 50%;
+	float: left;
+}
+
+.baibao{
+	float: left;
+	list-style: none;
+}
+
+.kc{
+	height: 50px;
+	width: 70px;
+}
+
+ul{
+	padding:0;
+}
+
